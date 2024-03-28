@@ -23,8 +23,5 @@ To run this application locally, follow these steps:
 4. Navigate to the `backend` directory and run the Spring Boot application.
 5. Access the application via your web browser.
 
-## Course Link
-Access the course on YouTube: [ReactJS + Spring Boot CRUD Full Stack App Course](youtube_course_link)
-
 ## Contributors
 - Narendra Reddy (https://github.com/NarendraReddy113)
